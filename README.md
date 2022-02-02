@@ -1,1 +1,1 @@
-# ethereum
+# awesome-ethereum-diagrams
