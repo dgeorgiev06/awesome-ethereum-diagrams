@@ -4,6 +4,9 @@
 
 L1
 
+| <img src="block.jpeg" width="100" height="100">        | Test1         | 
+| <img src="block.jpeg" width="100" height="100">        | Test2         |
+
 ![Screenshot](block.jpeg)
 
 L2
