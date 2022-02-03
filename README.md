@@ -12,7 +12,7 @@
 
 ## L2
 
-| Diagram                                                | Source        |       
+| Diagram                                                | Source                                                                  |       
 | ------------------------------------------------------ | ---------------------------------------------------------------------- | 
 | <img src="layer2s.jpeg" width="200" height="100">        | [Layer 2 scaling](https://cryptoshine.medium.com/understanding-zero-knowledge-layer-2-scaling-2b88edd86016) |
 
