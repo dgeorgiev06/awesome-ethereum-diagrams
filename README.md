@@ -26,3 +26,7 @@ table th:nth-of-type(2) {
 | <img src="layer2s.jpeg" width="200" height="100">        | [Layer 2 solutions](https://cryptoshine.medium.com/understanding-zero-knowledge-layer-2-scaling-2b88edd86016)                                                          |
 
 ## DeFi
+
+| Diagram                                                | Source                                                   |       
+| -------                                                | ------                                                   | 
+| <img src="uniswap_const_prod_func.jpeg" width="200" height="100">        | [Uniswap Constant Product Function](https://www.bsc.news/post/uniswap-project-insight-a-pioneer-in-the-decentralised-amm-space)                                                   |
