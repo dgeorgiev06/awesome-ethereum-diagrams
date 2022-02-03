@@ -29,4 +29,4 @@ table th:nth-of-type(2) {
 
 | Diagram                                                | Source                                                   |       
 | -------                                                | ------                                                   | 
-| <img src="uniswap_const_prod_func.jpeg" width="200" height="100">        | [Uniswap Constant Product Function](https://www.bsc.news/post/uniswap-project-insight-a-pioneer-in-the-decentralised-amm-space)                                                   |
+| <img src="uniswap_const_prod_func.png]" width="200" height="100">        | [Uniswap Constant Product Function](https://www.bsc.news/post/uniswap-project-insight-a-pioneer-in-the-decentralised-amm-space)                                                   |
