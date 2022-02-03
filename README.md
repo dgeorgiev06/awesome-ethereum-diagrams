@@ -4,9 +4,10 @@
 
 # L1
 
-| Diagram                                                | Description   |       
+| Diagram                                                | Source        |       
 | ------------------------------------------------------ | ------------- | 
-| <img src="block.jpeg" width="200" height="200">        | [Merkle Patricia Trie in Ethereum](https://kbaiiitmk.medium.com/merkle-patricia-trie-in-ethereum-a-silhouette-c8d04155b490)         | 
+| <img src="block.jpeg" width="200" height="200">        | [Merkle Patricia Trie in Ethereum](https://kbaiiitmk.medium.com/merkle-patricia-trie-in-ethereum-a-silhouette-c8d04155b490)         
+every block header stores roots of three trie structures: stateRoot, transactionRoot, and receiptsRoot | 
 
 # L2
 
