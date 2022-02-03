@@ -1,3 +1,12 @@
+<style>
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 60%;
+}
+</style>
+
 # awesome-ethereum-diagrams
 
 "A picture tells a thousand workds." A curated list of useful diagrams with links to original sources. These are diagrams that make it easier for me to grasp complex ethereum concepts related to L1, L2, and Defi.  Contributions are welcome.
