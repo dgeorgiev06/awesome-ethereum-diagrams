@@ -14,7 +14,7 @@ table th:nth-of-type(2) {
 ## L1
 
 | Diagram                                                | Source        |       
-| ------------------------------------------------------ | ------------- | 
+| -------                                                | ------        | 
 | <img src="block.jpeg" width="200" height="100">        | [Merkle Patricia Trie in Ethereum](https://kbaiiitmk.medium.com/merkle-patricia-trie-in-ethereum-a-silhouette-c8d04155b490) - every block header stores roots of three trie structures: stateRoot, transactionRoot, and receiptsRoot | 
 | <img src="trilemma.png" width="200" height="100">        | [The Scalability Trilemma](https://vitalik.ca/general/2021/04/07/sharding.html) |
 | <img src="roadmap.jpeg" width="200" height="100">        | [Ethereum roadmap](hhttps://twitter.com/VitalikButerin/status/1466411377107558402?s=20&t=IkX3s2xEMU0K9EVJVZLotg) |
@@ -23,6 +23,6 @@ table th:nth-of-type(2) {
 
 | Diagram                                                | Source                                                   |       
 | -------                                                | ------                                                   | 
-| <img src="layer2s.jpeg" width="200" height="100">        | [Layer 2 scaling](https://cryptoshine.medium.com/understanding-zero-knowledge-layer-2-scaling-2b88edd86016)                                                          |
+| <img src="layer2s.jpeg" width="200" height="100">        | [Layer 2 solutions](https://cryptoshine.medium.com/understanding-zero-knowledge-layer-2-scaling-2b88edd86016)                                                          |
 
 ## DeFi
