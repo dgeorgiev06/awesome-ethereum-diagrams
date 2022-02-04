@@ -22,7 +22,7 @@
 | Diagram                                                | Source                                                   |       
 | -------                                                | ------                                                   | 
 | <img src="./images/uniswap_const_prod_func.png" width="200" height="100">        | [Uniswap Constant Product Function: x * y = k](https://www.bsc.news/post/uniswap-project-insight-a-pioneer-in-the-decentralised-amm-space)                                                   |
-| <img src="./images/uniswap.jpeg" width="200" height="100">        | [Uniswap Constant Product Function](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
+| <img src="./images/uniswap.jpeg" width="200" height="100">        | [Uniswap](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
 | <img src="./images/uniswap_liq_provider.jpeg" width="200" height="100">        | [Uniswap Liquidity Provider](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
 | <img src="./images/uniswap_trader.jpeg" width="200" height="100">        | [Uniswap Trader](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
 | <img src="./images/curve.png" width="200" height="100">        | [Curve Finance](https://medium.com/stakecapital/curve-tokenomics-and-first-mover-advantage-54f2143728c2)                                                   |
