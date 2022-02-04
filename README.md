@@ -22,3 +22,6 @@
 | Diagram                                                | Source                                                   |       
 | -------                                                | ------                                                   | 
 | <img src="uniswap_const_prod_func.png" width="200" height="100">        | [Uniswap Constant Product Function](https://www.bsc.news/post/uniswap-project-insight-a-pioneer-in-the-decentralised-amm-space)                                                   |
+| <img src="uniswap.jpeg" width="200" height="100">        | [Uniswap Constant Product Function](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
+| <img src="uniswap_liq_provider.jpeg" width="200" height="100">        | [Uniswap Liquidity Provider](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
+| <img src="uniswap_trader.jpeg" width="200" height="100">        | [Uniswap Trader](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
