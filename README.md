@@ -26,3 +26,4 @@
 | <img src="./images/uniswap_liq_provider.jpeg" width="200" height="100">        | [Uniswap Liquidity Provider](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
 | <img src="./images/uniswap_trader.jpeg" width="200" height="100">        | [Uniswap Trader](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
 | <img src="./images/curve.png" width="200" height="100">        | [Curve Finance](https://medium.com/stakecapital/curve-tokenomics-and-first-mover-advantage-54f2143728c2)                                                   |
+| <img src="./images/aave.jpeg" width="200" height="100">        | [Aave](https://docs.aave.com/aavenomics/ecosystem-overview)                                                   |
