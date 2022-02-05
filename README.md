@@ -29,4 +29,5 @@
 | <img src="./images/curve.png" width="200" height="100">        | [Curve Finance](https://medium.com/stakecapital/curve-tokenomics-and-first-mover-advantage-54f2143728c2)                                                   |
 | <img src="./images/aave.jpeg" width="200" height="100">        | [Aave](https://docs.aave.com/aavenomics/ecosystem-overview)                                                   |
 | <img src="./images/maker.png" width="200" height="100">        | [Maker protocol smart contract modules system](https://docs.makerdao.com/)                                                   |
+| <img src="./images/tokemak.png" width="200" height="100">        | [Tokemak reactor structure](https://coinlive.me/is-tokenak-toke-a-potential-liquidity-solution-9042.html)                                                   |
 
