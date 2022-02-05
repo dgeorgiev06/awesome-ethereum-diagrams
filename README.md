@@ -26,6 +26,11 @@
 | <img src="./images/uniswap.jpeg" width="200" height="100">        | [Uniswap](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
 | <img src="./images/uniswap_liq_provider.jpeg" width="200" height="100">        | [Uniswap Liquidity Provider](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
 | <img src="./images/uniswap_trader.jpeg" width="200" height="100">        | [Uniswap Trader](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)                                                   |
+| <img src="./images/uni_dai_to_usdc_swap_v1.png" width="200" height="100">        | [Uniswap DAI to USDC swap v1](hhttps://uniswap.org/blog/uniswap-v2)                                                   |
+| <img src="./images/uni_dai_usdc_swap_v2.png" width="200" height="100">        | [Uniswap DAI to USDC swap v2](hhttps://uniswap.org/blog/uniswap-v2)                                                   |
+| <img src="./images/uni_twap_price.png" width="200" height="100">        | [Uniswap stored TWAP price](hhttps://uniswap.org/blog/uniswap-v2)                                                   |
+| <img src="./images/uni_price_from_twap.png" width="200" height="100">        | [Uniswap price from TWAP](hhttps://uniswap.org/blog/uniswap-v2)                                                   |
+| <img src="./images/uni_flash_swaps.png" width="200" height="100">        | [Uniswap flash swap](hhttps://uniswap.org/blog/uniswap-v2)                                                   |
 | <img src="./images/curve.png" width="200" height="100">        | [Curve Finance](https://medium.com/stakecapital/curve-tokenomics-and-first-mover-advantage-54f2143728c2)                                                   |
 | <img src="./images/aave.jpeg" width="200" height="100">        | [Aave](https://docs.aave.com/aavenomics/ecosystem-overview)                                                   |
 | <img src="./images/maker.png" width="200" height="100">        | [Maker protocol smart contract modules system](https://docs.makerdao.com/)                                                   |
