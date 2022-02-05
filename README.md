@@ -16,7 +16,7 @@
 | Diagram                                                | Source                                                   |       
 | -------                                                | ------                                                   | 
 | <img src="./images/layer2s.jpeg" width="200" height="100">        | [Layer 2 solutions](https://cryptoshine.medium.com/understanding-zero-knowledge-layer-2-scaling-2b88edd86016)                                                          |
-| <img src="./images/optimism.png" width="200" height="100">        | [Optimism](https://community.optimism.io/docs/protocol/protocol-2.0/#)                                                                                            |
+| <img src="./images/optimism.png" width="200" height="100">        | [Optimism high level architecture](https://community.optimism.io/docs/protocol/protocol-2.0/#)                                                                           |
 
 ## DeFi
 
