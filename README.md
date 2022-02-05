@@ -41,9 +41,9 @@
 | <img src="./images/aave.jpeg" width="200" height="100">        | [Aave](https://docs.aave.com/aavenomics/ecosystem-overview)                                                   |
 | <img src="./images/maker.png" width="200" height="100">        | [Maker protocol smart contract modules system](https://docs.makerdao.com/)                                                   |
 | <img src="./images/tokemak.png" width="200" height="100">        | [Tokemak reactor structure](https://coinlive.me/is-tokenak-toke-a-potential-liquidity-solution-9042.html)                                                   |
-| <img src="./images/fei_pcv_rewights.png" width="200" height="100">        | [FEI pcv reweights](https://medium.com/fei-protocol/introducing-fei-protocol-2db79bd7a82b)                                                   |
+| <img src="./images/fei_pcv_reweights.png" width="200" height="100">        | [FEI pcv reweights](https://medium.com/fei-protocol/introducing-fei-protocol-2db79bd7a82b)                                                   |
 | <img src="./images/fei_bonding_curve.png" width="200" height="100">        | [FEI bonding curve](https://medium.com/fei-protocol/introducing-fei-protocol-2db79bd7a82b)                                                   |
 | <img src="./images/fei_arbitrage.png" width="200" height="100">        | [FEI arbitrage](https://medium.com/fei-protocol/introducing-fei-protocol-2db79bd7a82b)                                                   |
-| <img src="./images/fei_incentivized_exchange.png" width="200" height="100">        | [FEI incentivized exchange](https://medium.com/fei-protocol/introducing-fei-protocol-2db79bd7a82b)                                                   |
+| <img src="./images/fei_incentivised_exchange.png" width="200" height="100">        | [FEI incentivized exchange](https://medium.com/fei-protocol/introducing-fei-protocol-2db79bd7a82b)                                                   |
 | <img src="./images/fei_peg_dynamics.png" width="200" height="100">        | [FEI peg dynamics](https://medium.com/fei-protocol/introducing-fei-protocol-2db79bd7a82b)                                                   |
 
