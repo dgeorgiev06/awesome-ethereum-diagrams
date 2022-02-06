@@ -50,6 +50,6 @@
 | <img src="./images/fei_arbitrage.png" width="200" height="100">        | [FEI arbitrage](https://medium.com/fei-protocol/introducing-fei-protocol-2db79bd7a82b)                                                   |
 | <img src="./images/fei_incentivised_exchange.png" width="200" height="100">        | [FEI incentivized exchange](https://medium.com/fei-protocol/introducing-fei-protocol-2db79bd7a82b)                                                   |
 | <img src="./images/fei_peg_dynamics.png" width="200" height="100">        | [FEI peg dynamics](https://medium.com/fei-protocol/introducing-fei-protocol-2db79bd7a82b)                                                   |
- <img src="./images/yearn_v2_technical.jpg" width="200" height="100">        | [Yearn v2 architecture](https://defi-diagrams.herokuapp.com/yearn-vaults-v2/)                                                   |
-<img src="./images/ondo_fei_laas.png" width="200" height="100">        | [Liquidity as a service with ondo and fei](hhttps://medium.com/fei-protocol/if-you-are-part-of-a-dao-or-protocol-that-wants-to-create-liquidity-for-your-token-without-f49a01f02863)              |
- 
+|<img src="./images/yearn_v2_technical.jpg" width="200" height="100">        | [Yearn v2 architecture](https://defi-diagrams.herokuapp.com/yearn-vaults-v2/)                                                   |
+|<img src="./images/ondo_fei_laas.png" width="200" height="100">        | [Liquidity as a service with ondo and fei](hhttps://medium.com/fei-protocol/if-you-are-part-of-a-dao-or-protocol-that-wants-to-create-liquidity-for-your-token-without-f49a01f02863)              |
+|<img src="./images/lido.png" width="200" height="100">        | [Lido staking](https://blog.lido.fi/how-lido-works/)                                                   | 
