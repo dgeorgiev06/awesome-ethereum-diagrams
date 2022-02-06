@@ -19,7 +19,8 @@
 | -------                                                | ------                                                   | 
 | <img src="./images/layer2s.jpeg" width="200" height="100">        | [Layer 2 solutions](https://cryptoshine.medium.com/understanding-zero-knowledge-layer-2-scaling-2b88edd86016)                                                          |
 | <img src="./images/optimism.png" width="200" height="100">        | [Optimism high level architecture](https://community.optimism.io/docs/protocol/protocol-2.0/#)                                                                           |
-| <img src="./images/zkSync.png" width="200" height="100">        | [ZKSync high level architecture](https://starli.medium.com/l2-deep-into-zksync-source-code-d6be1b3c16e5)                                                                           |
+| <img src="./images/zkSync.png" width="200" height="100">        | [ZKSync high level architecture](https://starli.medium.com/l2-deep-into-zksync-source-code-d6be1b3c16e5)                                                                   |
+| <img src="./images/starknet_roadmap.png" width="200" height="100">        | [StarkNet high level roadmap](https://medium.comstarkwareon-the-road-to-starknet-a-permissionless-stark-powered-l2-zk-rollup-83be53640880)                       |
 
 ## Oracles
 | Diagram                                                | Source                                                   |       
