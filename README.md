@@ -53,3 +53,4 @@
 |<img src="./images/yearn_v2_technical.jpg" width="200" height="100">        | [Yearn v2 architecture](https://defi-diagrams.herokuapp.com/yearn-vaults-v2/)                                                   |
 |<img src="./images/ondo_fei_laas.png" width="200" height="100">        | [Liquidity as a service with ondo and fei](https://medium.com/fei-protocol/if-you-are-part-of-a-dao-or-protocol-that-wants-to-create-liquidity-for-your-token-without-f49a01f02863)              |
 |<img src="./images/lido.png" width="200" height="100">        | [Lido staking](https://blog.lido.fi/how-lido-works/)                                                   | 
+|<img src="./images/alchemix.png" width="200" height="100">        | [Alchemix](https://alchemixfi.medium.com/introducing-alchemix-9e7054de54d6)                                                   | 
