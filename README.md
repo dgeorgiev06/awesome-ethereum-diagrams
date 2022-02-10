@@ -12,6 +12,7 @@
 | <img src="./images/roadmap.jpeg" width="200" height="100">        | [Ethereum roadmap: merge, surge, verge, purge, splurge](https://twitter.com/VitalikButerin/status/1466411377107558402?s=20&t=IkX3s2xEMU0K9EVJVZLotg) |
 | <img src="./images/eth_proof_of_work_chain.png" width="200" height="100">        | [Ethereum proof of work chain](https://notes.ethereum.org/@vbuterin/SkeyEI3xv) |
 | <img src="./images/sharding.png" width="200" height="100">        | [Ethereum sharding](https://notes.ethereum.org/@vbuterin/SkeyEI3xv) |
+| <img src="./images/casper.jpeg" width="200" height="100">        | [Casper FFG in Ethereum 2.0](https://link.medium.com/gbH9gatWvnb) |
 
 ## L2
 
