@@ -60,4 +60,4 @@
 |<img src="./images/tracer.png" width="200" height="100">        | [Factory contracts for derivative markets](https://tracer.finance/radar/future-of-derivatives/)                                                     |
 |<img src="./images/yearn-ecosystem.png" width="200" height="100">        | [Yearn DeFi ecosystem map](https://messari.io/article/yearning-for-yearn)                                                     | 
 |<img src="./images/chainlink-keepers.jpeg" width="200" height="100">   | [Chainlink keepers](https://blog.chain.link/smart-contract-automation-use-cases-powered-by-chainlink-keepers/)                                           |
-|<img src="./images/chainlink-keeper-alchemix.jpeg" width="200" height="100">   | [Chainlink keepers - Alchemix](https://blog.chain.link/smart-contract-automation-use-cases-powered-by-chainlink-keepers/)                                           |
+|<img src="./images/chainlink-keeper-alchemix.png" width="200" height="100">   | [Chainlink keepers - Alchemix](https://blog.chain.link/smart-contract-automation-use-cases-powered-by-chainlink-keepers/)                                           |
