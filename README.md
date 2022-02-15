@@ -62,3 +62,4 @@
 |<img src="./images/chainlink-keepers.jpeg" width="200" height="100">   | [Chainlink keepers](https://blog.chain.link/smart-contract-automation-use-cases-powered-by-chainlink-keepers/)                                           |
 |<img src="./images/chainlink-keeper-alchemix.png" width="200" height="100">   | [Chainlink keepers - Alchemix](https://blog.chain.link/smart-contract-automation-use-cases-powered-by-chainlink-keepers/)                                           |
 |<img src="./images/tokemak-high-level.png" width="200" height="100">   | [Tokemak benefits](https://www.tokebase.org/way-of-the-pilot/)                                           |
+|<img src="./images/aave-contracts.png" width="200" height="100">   | [Aave contracts overview](https://docs.aave.com/developers/v/1.0/developing-on-aave/the-protocol)                                           |
