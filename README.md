@@ -64,3 +64,4 @@
 |<img src="./images/tokemak-high-level.png" width="200" height="100">   | [Tokemak benefits](https://www.tokebase.org/way-of-the-pilot/)                                           |
 |<img src="./images/aave-contracts.png" width="200" height="100">   | [Aave contracts overview](https://docs.aave.com/developers/v/1.0/developing-on-aave/the-protocol)                                           |
 |<img src="./images/dopex.png" width="200" height="100">   | [DeFi options: Dopex options flow](https://docs.dopex.io/pools/platform-flow)                                           |
+|<img src="./images/klima.png" width="200" height="100">   | [Tokenomics of bringing carbon on-chain and using it to back KLIMA](https://medium.com/coinmonks/tokenomics-101-klima-dao-e8fac497454f)                                           |
