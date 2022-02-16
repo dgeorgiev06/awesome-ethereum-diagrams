@@ -57,7 +57,7 @@
 |<img src="./images/ondo_fei_laas.png" width="200" height="100">        | [Liquidity as a service with ondo and fei](https://medium.com/fei-protocol/if-you-are-part-of-a-dao-or-protocol-that-wants-to-create-liquidity-for-your-token-without-f49a01f02863)              |
 |<img src="./images/lido.png" width="200" height="100">        | [Lido staking](https://blog.lido.fi/how-lido-works/)                                                   | 
 |<img src="./images/alchemix.png" width="200" height="100">        | [Alchemix](https://alchemixfi.medium.com/introducing-alchemix-9e7054de54d6)                                                     | 
-|<img src="./images/tracer.png" width="200" height="100">        | [Factory contracts for derivative markets](https://tracer.finance/radar/future-of-derivatives/)                                                     |
+|<img src="./images/tracer.png" width="200" height="100">        | [Tracer DAO: Factory contracts for derivative markets](https://tracer.finance/radar/future-of-derivatives/)                                                     |
 |<img src="./images/yearn-ecosystem.png" width="200" height="100">        | [Yearn DeFi ecosystem map](https://messari.io/article/yearning-for-yearn)                                                     | 
 |<img src="./images/chainlink-keepers.jpeg" width="200" height="100">   | [Chainlink keepers](https://blog.chain.link/smart-contract-automation-use-cases-powered-by-chainlink-keepers/)                                           |
 |<img src="./images/chainlink-keeper-alchemix.png" width="200" height="100">   | [Chainlink keepers - Alchemix](https://blog.chain.link/smart-contract-automation-use-cases-powered-by-chainlink-keepers/)                                           |
