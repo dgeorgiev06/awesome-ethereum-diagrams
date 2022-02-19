@@ -24,6 +24,7 @@
 | <img src="./images/starknet_roadmap.png" width="200" height="100">        | [StarkNet high level roadmap](https://medium.comstarkwareon-the-road-to-starknet-a-permissionless-stark-powered-l2-zk-rollup-83be53640880)                       |
 | <img src="./images/connext.png" width="200" height="100">        | [Connext is the interoperability protocol of L2 Ethereum](https://nxtp-docs.connext.network/Integration/SystemOverview/howitworks)                                  |
 | <img src="./images/celestia.jpeg" width="200" height="100">        | [Celestia as the data availability layer](https://blog.celestia.org/celestiums/)                                  |
+| <img src="./images/Beacon-Chain-RANDAO.png" width="200" height="100">        | [RANDAO selects proposers for each slot, and shuffles validators to committees](https://ethos.dev/beacon-chain/)                                  |
 
 ## Oracles
 | Diagram                                                | Source                                                   |       
