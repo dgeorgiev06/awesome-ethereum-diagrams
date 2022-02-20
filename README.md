@@ -13,6 +13,7 @@
 | <img src="./images/eth_proof_of_work_chain.png" width="200" height="100">        | [Ethereum proof of work chain](https://notes.ethereum.org/@vbuterin/SkeyEI3xv) |
 | <img src="./images/sharding.png" width="200" height="100">        | [Ethereum sharding](https://notes.ethereum.org/@vbuterin/SkeyEI3xv) |
 | <img src="./images/casper.jpeg" width="200" height="100">        | [Casper FFG in Ethereum 2.0](https://link.medium.com/gbH9gatWvnb) |
+| <img src="./images/epoch.gif" width="200" height="100">        | [Epochs and slots in Ethereum 2.0](https://medium.com/stakefish/deeper-dive-into-ethereum-2-0-part-1-93c475a18735) |
 
 ## L2
 
@@ -24,6 +25,7 @@
 | <img src="./images/starknet_roadmap.png" width="200" height="100">        | [StarkNet high level roadmap](https://medium.comstarkwareon-the-road-to-starknet-a-permissionless-stark-powered-l2-zk-rollup-83be53640880)                       |
 | <img src="./images/connext.png" width="200" height="100">        | [Connext is the interoperability protocol of L2 Ethereum](https://nxtp-docs.connext.network/Integration/SystemOverview/howitworks)                                  |
 | <img src="./images/celestia.jpeg" width="200" height="100">        | [Celestia as the data availability layer](https://blog.celestia.org/celestiums/)                                  |
+| <img src="./images/Beacon-Chain-RANDAO.png" width="200" height="100">        | [RANDAO selects proposers for each slot, and shuffles validators to committees](https://ethos.dev/beacon-chain/)                                  |
 | <img src="./images/Beacon-Chain-RANDAO.png" width="200" height="100">        | [RANDAO selects proposers for each slot, and shuffles validators to committees](https://ethos.dev/beacon-chain/)                                  |
 
 ## Oracles
