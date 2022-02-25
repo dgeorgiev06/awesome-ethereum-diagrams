@@ -14,6 +14,7 @@
 | <img src="./images/sharding.png" width="200" height="100">        | [Ethereum sharding](https://notes.ethereum.org/@vbuterin/SkeyEI3xv) |
 | <img src="./images/casper.jpeg" width="200" height="100">        | [Casper FFG in Ethereum 2.0](https://link.medium.com/gbH9gatWvnb) |
 | <img src="./images/epoch.gif" width="200" height="100">        | [Epochs and slots in Ethereum 2.0](https://medium.com/stakefish/deeper-dive-into-ethereum-2-0-part-1-93c475a18735) |
+| <img src="./images/evm-architecture.png" width="200" height="100">        | [Ethereum EVM architecture](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc) |
 
 ## L2
 
