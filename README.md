@@ -35,7 +35,7 @@
 | <img src="./images/uma_oracle.png" width="200" height="100">        | [UMA's DVM Oracle](https://docs.umaproject.org/oracle/tech-architecture)                                                          |
 | <img src="./images/chainlink.png" width="200" height="100">        | [Chainlink Oracle](https://www.kaleido.io/blockchain-blog/how-chainlink-works-under-the-covers)                                                          |
 
-## DeFi
+## DeFi ( with a few exceptions not on the Ethereum ecosystem )
 
 | Diagram                                                | Source                                                   |       
 | -------                                                | ------                                                   | 
