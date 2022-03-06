@@ -28,6 +28,7 @@
 | <img src="./images/celestia.jpeg" width="200" height="100">        | [Celestia as the data availability layer](https://blog.celestia.org/celestiums/)                                  |
 | <img src="./images/Beacon-Chain-RANDAO.png" width="200" height="100">        | [RANDAO selects proposers for each slot, and shuffles validators to committees](https://ethos.dev/beacon-chain/)                                  |
 | <img src="./images/arbitrum.png" width="200" height="100">        | [Arbitrum high level architecture](https://tracer.finance/radar/arbitrum-in-under-10/)                                        |
+| <img src="./images/arbitrum_trx_paths.png" width="200" height="100">        | [Arbitrum transaction paths](https://medium.com/privacy-scaling-explorations/a-technical-introduction-to-arbitrums-optimistic-rollup-860955ea5fec)                               |
 
 
 ## Oracles
