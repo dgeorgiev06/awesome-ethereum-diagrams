@@ -37,7 +37,7 @@
 | <img src="./images/uma_oracle.png" width="200" height="100">        | [UMA's DVM Oracle](https://docs.umaproject.org/oracle/tech-architecture)                                                          |
 | <img src="./images/chainlink.png" width="200" height="100">        | [Chainlink Oracle](https://www.kaleido.io/blockchain-blog/how-chainlink-works-under-the-covers)                                                          |
 
-## DeFi ( with a few exceptions not on the Ethereum ecosystem )
+## DeFi 
 
 | Diagram                                                | Source                                                   |       
 | -------                                                | ------                                                   | 
@@ -71,4 +71,11 @@
 |<img src="./images/aave-contracts.png" width="200" height="100">   | [Aave contracts overview](https://docs.aave.com/developers/v/1.0/developing-on-aave/the-protocol)                                           |
 |<img src="./images/dopex.png" width="200" height="100">   | [DeFi options: Dopex options flow](https://docs.dopex.io/pools/platform-flow)                                           |
 |<img src="./images/klima.png" width="200" height="100">   | [Tokenomics of bringing carbon on-chain and using it to back KLIMA](https://medium.com/coinmonks/tokenomics-101-klima-dao-e8fac497454f)                                           |
+
+
+# Other blockchain technologies
+
+| Diagram                                                | Source                                                   |       
+| -------                                                | ------                                                   | 
 |<img src="./images/terra_luna.png" width="200" height="100">   | [Terra / Luna Tokenomics](https://medium.com/bankless-dao/tokenomics-101-terra-ecosystem-cbbca4a03205)                  |
+|<img src="./images/avalanche_consensus.png" width="200" height="100">   | [Avalanche Consensus](https://learn.bybit.com/altcoins/what-is-avalanche-avax/)                  |
