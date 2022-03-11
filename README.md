@@ -71,6 +71,9 @@
 |<img src="./images/aave-contracts.png" width="200" height="100">   | [Aave contracts overview](https://docs.aave.com/developers/v/1.0/developing-on-aave/the-protocol)                                           |
 |<img src="./images/dopex.png" width="200" height="100">   | [DeFi options: Dopex options flow](https://docs.dopex.io/pools/platform-flow)                                           |
 |<img src="./images/klima.png" width="200" height="100">   | [Tokenomics of bringing carbon on-chain and using it to back KLIMA](https://medium.com/coinmonks/tokenomics-101-klima-dao-e8fac497454f)                                           |
+|<img src="./images/aladdin_concentrator.png" width="200" height="100">   | [Aladdin Concentrator for maximazing curve LP rewards](https://curve.substack.com/p/march-11-2022-genies-out-of-the-boule?r=br6us&s=w&utm_campaign=twitter_3_11_22)                                           |
+|<img src="./images/gysr.png" width="200" height="100">   | [GYSR liquidity mining reward mechanism](https://medium.com/gysr/gysr-gelato-g-uni-for-uniswap-v3-liquidity-mining-5579c2cf8a35)             |
+|<img src="./images/gelato.png" width="200" height="100">   | [G-UNI Uniswap v3 liquidity management system with no code](https://medium.com/gysr/gysr-gelato-g-uni-for-uniswap-v3-liquidity-mining-5579c2cf8a35)  |
 
 
 # Other blockchain technologies
