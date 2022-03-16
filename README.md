@@ -15,6 +15,7 @@
 | <img src="./images/casper.jpeg" width="200" height="100">        | [Casper FFG in Ethereum 2.0](https://link.medium.com/gbH9gatWvnb) |
 | <img src="./images/epoch.gif" width="200" height="100">        | [Epochs and slots in Ethereum 2.0](https://medium.com/stakefish/deeper-dive-into-ethereum-2-0-part-1-93c475a18735) |
 | <img src="./images/evm-architecture.png" width="200" height="100">        | [Ethereum EVM architecture](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc) |
+| <img src="./images/eth-roadmap-202203.jpeg" width="200" height="100">        | [Ethereum roadmap status as of 3/15/2022](https://twitter.com/pseudotheos/status/1503370385890324484) |
 
 ## L2
 
@@ -29,6 +30,7 @@
 | <img src="./images/Beacon-Chain-RANDAO.png" width="200" height="100">        | [RANDAO selects proposers for each slot, and shuffles validators to committees](https://ethos.dev/beacon-chain/)                                  |
 | <img src="./images/arbitrum.png" width="200" height="100">        | [Arbitrum high level architecture](https://tracer.finance/radar/arbitrum-in-under-10/)                                        |
 | <img src="./images/arbitrum_trx_paths.png" width="200" height="100">        | [Arbitrum transaction paths](https://medium.com/privacy-scaling-explorations/a-technical-introduction-to-arbitrums-optimistic-rollup-860955ea5fec)                               |
+| <img src="./images/polygon.webp" width="200" height="100">        | [Polygon architecture](https://docs.polygon.technology/docs/validate/validator/architecture/)                               |
 
 
 ## Oracles
@@ -37,7 +39,7 @@
 | <img src="./images/uma_oracle.png" width="200" height="100">        | [UMA's DVM Oracle](https://docs.umaproject.org/oracle/tech-architecture)                                                          |
 | <img src="./images/chainlink.png" width="200" height="100">        | [Chainlink Oracle](https://www.kaleido.io/blockchain-blog/how-chainlink-works-under-the-covers)                                                          |
 
-## DeFi 
+## DeFi and DAO tokenomics
 
 | Diagram                                                | Source                                                   |       
 | -------                                                | ------                                                   | 
