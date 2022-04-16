@@ -77,6 +77,7 @@
 |<img src="./images/gysr.png" width="200" height="100">   | [GYSR liquidity mining reward mechanism](https://medium.com/gysr/gysr-gelato-g-uni-for-uniswap-v3-liquidity-mining-5579c2cf8a35)             |
 |<img src="./images/gelato.png" width="200" height="100">   | [G-UNI Uniswap v3 liquidity management system with no code](https://medium.com/gysr/gysr-gelato-g-uni-for-uniswap-v3-liquidity-mining-5579c2cf8a35)  |
 |<img src="./images/Frax_tokenomics.png" width="200" height="100">   | [FRAX Tokenomics](https://tokenomicsdao.com/frax/)  |
+|<img src="./images/alchemix_elixir.png" width="200" height="100">   | [Alchemix Elixir](https://alchemixfi.medium.com/elixir-the-alchemix-algorithmic-market-operator-2e4c8ad04569)  |
 
 
 # Other blockchain technologies
