@@ -86,4 +86,4 @@
 | -------                                                | ------                                                   | 
 |<img src="./images/terra_luna.png" width="200" height="100">   | [Terra / Luna Tokenomics](https://medium.com/bankless-dao/tokenomics-101-terra-ecosystem-cbbca4a03205)                  |
 |<img src="./images/avalanche_consensus.png" width="200" height="100">   | [Avalanche Consensus](https://learn.bybit.com/altcoins/what-is-avalanche-avax/)                  |
-|<img src="./images/layerzero.webp" width="200" height="100">   | [LayerZero](https://d-core.net/asset-review-summary-layerzero-protocol/)                  |
+|<img src="./images/layerzero.png" width="200" height="100">   | [LayerZero](https://d-core.net/asset-review-summary-layerzero-protocol/)                  |
