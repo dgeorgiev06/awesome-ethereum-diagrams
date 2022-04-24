@@ -16,6 +16,7 @@
 | <img src="./images/epoch.gif" width="200" height="100">        | [Epochs and slots in Ethereum 2.0](https://medium.com/stakefish/deeper-dive-into-ethereum-2-0-part-1-93c475a18735) |
 | <img src="./images/evm-architecture.png" width="200" height="100">        | [Ethereum EVM architecture](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc) |
 | <img src="./images/eth-roadmap-202203.jpeg" width="200" height="100">        | [Ethereum roadmap status as of 3/15/2022](https://twitter.com/pseudotheos/status/1503370385890324484) |
+| <img src="./images/erigon.png" width="200" height="100">        | [The erigon ethereum client](https://erigon.substack.com/p/architecture-of-erigon-separable?s=r) |
 
 ## L2
 
