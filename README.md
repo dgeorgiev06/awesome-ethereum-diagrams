@@ -81,6 +81,10 @@
 |<img src="./images/alchemix_elixir.png" width="200" height="100">   | [Alchemix Elixir](https://alchemixfi.medium.com/elixir-the-alchemix-algorithmic-market-operator-2e4c8ad04569)  |
 |<img src="./images/liquid_lockers.jpeg" width="200" height="100">   | [StakeDAO - Liquid lockers](https://stakedaohq.medium.com/introducing-liquid-lockers-vesdt-5febcf169170)  |
 
+# Governance
+
+|<img src="./images/aragon.png" width="200" height="100">   | [Building DAOs with Aragon](https://medium.com/quiknode/building-daos-with-aragon-c8b95956a405)  |
+
 # Other blockchain technologies
 
 | Diagram                                                | Source                                                   |       
