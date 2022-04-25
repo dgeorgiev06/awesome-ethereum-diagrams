@@ -83,6 +83,8 @@
 
 # Governance
 
+| Diagram                                                | Source                                                   |       
+| -------                                                | ------                                                   | 
 |<img src="./images/aragon.png" width="200" height="100">   | [Building DAOs with Aragon](https://medium.com/quiknode/building-daos-with-aragon-c8b95956a405)  |
 
 # Other blockchain technologies
