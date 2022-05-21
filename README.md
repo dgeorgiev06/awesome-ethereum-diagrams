@@ -34,6 +34,7 @@
 | <img src="./images/arbitrum.png" width="200" height="100">        | [Arbitrum high level architecture](https://tracer.finance/radar/arbitrum-in-under-10/)                                        |
 | <img src="./images/arbitrum_trx_paths.png" width="200" height="100">        | [Arbitrum transaction paths](https://medium.com/privacy-scaling-explorations/a-technical-introduction-to-arbitrums-optimistic-rollup-860955ea5fec)                               |
 | <img src="./images/polygon2.png" width="200" height="100">        | [Polygon architecture](https://docs.polygon.technology/docs/validate/validator/architecture/)                               |
+| <img src="./images/polygon-edge.png" width="200" height="100">        | [Polygon edge](https://blog.polygon.technology/how-to-bootstrap-a-blockchain-with-polygon-edge/?utm_source=Twitter-Main&utm_medium=Tweet&utm_campaign=Tier-1-Announcement)                               |
 
 
 ## Oracles
@@ -41,6 +42,12 @@
 | -------                                                | ------                                                   | 
 | <img src="./images/uma_oracle.png" width="200" height="100">        | [UMA's DVM Oracle](https://docs.umaproject.org/oracle/tech-architecture)                                                          |
 | <img src="./images/chainlink.png" width="200" height="100">        | [Chainlink Oracle](https://www.kaleido.io/blockchain-blog/how-chainlink-works-under-the-covers)                                                          |
+
+## Frameworks
+| Diagram                                                | Source                                                   |       
+| -------                                                | ------                                                   | 
+| <img src="./images/dsproxy.png" width="200" height="100">        | [DS Proxy](https://twitter.com/definikola/status/1512100163527090193)                                                          |
+
 
 ## DeFi and DAO tokenomics
 
