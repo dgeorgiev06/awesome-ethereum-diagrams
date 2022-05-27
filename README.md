@@ -20,8 +20,8 @@
 | <img src="./images/EL_CL.png" width="200" height="100">        | [Execution/Concencus client pairs](https://hackmd.io/@timbeiko/acd/https%3A%2F%2Ftim.mirror.xyz%2FPWFVaHY3Mrx7srarMmuBWya0J5kioR1l2xaH3p5APDk%3Fdisplay%3Diframe) |
 | <img src="./images/engineAPI.png" width="200" height="100">        | [POS Execution/Concencus layer interop](https://besu.hyperledger.org/en/stable/Concepts/Merge/) |
 | <img src="./images/evmstorage.jpeg" width="200" height="100">        | [EVM storage structure](https://coinyuppie.com/in-depth-understanding-of-evm-storage-mechanism-and-security-issues/) |
-| <img src="./images/state-trie.png" width="200" height="100">        | [Ethereum state trie](hhttps://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) |
-| <img src="./images/eth-mechanism.jpeg" width="200" height="100">        | [Ethereum blockchain mechanism](hhttps://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) |
+| <img src="./images/state-trie.png" width="200" height="100">        | [Ethereum state trie](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) |
+| <img src="./images/eth-mechanism.jpeg" width="200" height="100">        | [Ethereum blockchain mechanism](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) |
 
 
 ## L2
