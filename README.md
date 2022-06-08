@@ -96,6 +96,9 @@
 |<img src="./images/Frax_tokenomics.png" width="200" height="100">   | [FRAX Tokenomics](https://tokenomicsdao.com/frax/)  |
 |<img src="./images/alchemix_elixir.png" width="200" height="100">   | [Alchemix Elixir](https://alchemixfi.medium.com/elixir-the-alchemix-algorithmic-market-operator-2e4c8ad04569)  |
 |<img src="./images/liquid_lockers.jpeg" width="200" height="100">   | [StakeDAO - Liquid lockers](https://stakedaohq.medium.com/introducing-liquid-lockers-vesdt-5febcf169170)  |
+|<img src="./images/lyra.png" width="200" height="100">   | [Lyra options AMM](https://docs.lyra.finance/implementation/lyra-protocol-architecture)  |
+|<img src="./images/voltz_architecture.png" width="200" height="100">   | [Voltz IRS](https://docs.voltz.xyz/getting-started/protocol-overview)  |
+|<img src="./images/starknet_dai_bridge.png" width="200" height="100">   | [StarkNet Dai Bridge](https://morioh.com/p/be6c9cb57011)  |
 
 # Governance
 
