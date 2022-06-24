@@ -114,3 +114,4 @@
 |<img src="./images/avalanche_consensus.png" width="200" height="100">   | [Avalanche Consensus](https://learn.bybit.com/altcoins/what-is-avalanche-avax/)                  |
 |<img src="./images/layerzero.png" width="200" height="100">   | [LayerZero](https://d-core.net/asset-review-summary-layerzero-protocol/)                  |
 |<img src="./images/Uploaded_from_Sign_in_with_Ethereum.png" width="200" height="100">   | [Spruce/Sign-in with Ethereum](https://auth0.com/blog/sign-in-with-ethereum-siwe-now-available-on-auth0/)                  |
+|<img src="./images/polygon_id.jpeg" width="200" height="100">   | [Polygon ID](https://blog.polygon.technology/introducing-polygon-id-zero-knowledge-own-your-identity-for-web3/)                  |
