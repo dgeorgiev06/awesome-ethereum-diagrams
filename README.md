@@ -22,7 +22,7 @@
 | <img src="./images/evmstorage.jpeg" width="200" height="100">        | [EVM storage structure](https://coinyuppie.com/in-depth-understanding-of-evm-storage-mechanism-and-security-issues/) |
 | <img src="./images/state-trie.png" width="200" height="100">        | [Ethereum state trie](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) |
 | <img src="./images/eth-mechanism.jpeg" width="200" height="100">        | [Ethereum blockchain mechanism](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) |
-
+| <img src="./images/charon.png" width="200" height="100">        | [Distributed Ethereum validator](https://docs.obol.tech/docs/dv/introducing-charon) |
 
 ## L2
 
@@ -41,6 +41,7 @@
 | <img src="./images/polygon2.png" width="200" height="100">        | [Polygon architecture](https://docs.polygon.technology/docs/validate/validator/architecture/)                               |
 | <img src="./images/polygon-edge.png" width="200" height="100">        | [Polygon edge](https://blog.polygon.technology/how-to-bootstrap-a-blockchain-with-polygon-edge/?utm_source=Twitter-Main&utm_medium=Tweet&utm_campaign=Tier-1-Announcement)                               |
 | <img src="./images/chain-and-state-diagram-full.jpeg" width="200" height="100">        | [Ethereum scaling solutions](https://samlaf.github.io/blockchain/graphical-depiction-of-ethereum-scaling-solutions.html) |
+| <img src="./images/zkEvm.png" width="200" height="100">        | [Polygon zkEvm](https://blog.polygon.technology/the-future-is-now-for-ethereum-scaling-introducing-polygon-zkevm/) |
 
 
 ## Oracles
