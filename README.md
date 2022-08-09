@@ -49,6 +49,7 @@
 | -------                                                | ------                                                   | 
 | <img src="./images/uma_oracle.png" width="200" height="100">        | [UMA's DVM Oracle](https://docs.umaproject.org/oracle/tech-architecture)                                                          |
 | <img src="./images/chainlink.png" width="200" height="100">        | [Chainlink Oracle](https://www.kaleido.io/blockchain-blog/how-chainlink-works-under-the-covers)                                                          |
+| <img src="./images/proof_of_reserves.png" width="200" height="100">        | [Chainlink Proof Of Reserves](https://blog.chain.link/proof-of-reserves/)                                               |
 
 ## Frameworks
 | Diagram                                                | Source                                                   |       
