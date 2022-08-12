@@ -111,6 +111,7 @@
 |<img src="./images/lyra.png" width="200" height="100">   | [Lyra options AMM](https://docs.lyra.finance/implementation/lyra-protocol-architecture)  |
 |<img src="./images/voltz_architecture.png" width="200" height="100">   | [Voltz IRS](https://docs.voltz.xyz/getting-started/protocol-overview)  |
 |<img src="./images/starknet_dai_bridge.png" width="200" height="100">   | [StarkNet Dai Bridge](https://morioh.com/p/be6c9cb57011)  |
+|<img src="./images/batch_auctions.png" width="200" height="100">   | [COW Protocol / Batch Auctions](https://docs.cow.fi/overview/batch-auctions)  |
 
 # Governance
 
