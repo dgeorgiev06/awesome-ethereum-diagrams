@@ -3,6 +3,15 @@
 
 "A picture tells a thousand words." A curated list of useful diagrams with links to original sources. Diagrams help me grasp complex ethereum concepts related to L1, L2, and Defi.  Contributions and feedback are welcome.
 
+- [L1](#l1)
+- [L2](#l2)
+- [Oracles](#oracles)
+- [Frameworks](#frameworks)
+- [DeFi and DAO tekenomics](#defi-and-dao-tokenomics)
+- [Governance](#governance)
+- [NFT platforms](#nft-platforms)
+- [Other blockchain technologies](#other-blockchain-technologies)
+
 ## L1
 
 | Diagram                                                | Source        |       
