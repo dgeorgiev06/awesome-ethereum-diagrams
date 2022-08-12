@@ -32,7 +32,7 @@
 | <img src="./images/state-trie.png" width="200" height="100">        | [Ethereum state trie](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) |
 | <img src="./images/eth-mechanism.jpeg" width="200" height="100">        | [Ethereum blockchain mechanism](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) |
 | <img src="./images/charon.png" width="200" height="100">        | [Distributed Ethereum validator](https://docs.obol.tech/docs/dv/introducing-charon) |
-| <img src="./images/mev-boost" width="200" height="100">        | [MEV Boost](https://www.blocknative.com/blog/ethereum-block-building) |
+| <img src="./images/mev-boost.webp" width="200" height="100">        | [MEV Boost](https://www.blocknative.com/blog/ethereum-block-building) |
 
 ## L2
 
