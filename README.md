@@ -112,7 +112,7 @@
 |<img src="./images/voltz_architecture.png" width="200" height="100">   | [Voltz IRS](https://docs.voltz.xyz/getting-started/protocol-overview)  |
 |<img src="./images/starknet_dai_bridge.png" width="200" height="100">   | [StarkNet Dai Bridge](https://morioh.com/p/be6c9cb57011)  |
 |<img src="./images/batch_auctions.png" width="200" height="100">   | [COW Protocol / Batch Auctions](https://docs.cow.fi/overview/batch-auctions)  |
-|<img src="./images/truebitTok.png" width="200" height="100">   | [Truebit Tokenomics](https://medium.com/gasworks-crypto/truebit-the-biggest-crypto-project-youve-never-heard-of-512717e5e061)
+|<img src="./images/truebitTok.png" width="200" height="100">   | [Truebit Tokenomics](https://truebit.io/#applications)
 
 # Governance
 
@@ -136,4 +136,4 @@
 |<img src="./images/Uploaded_from_Sign_in_with_Ethereum.png" width="200" height="100">   | [Spruce/Sign-in with Ethereum](https://auth0.com/blog/sign-in-with-ethereum-siwe-now-available-on-auth0/)                  |
 |<img src="./images/polygon_id.jpeg" width="200" height="100">   | [Polygon ID](https://blog.polygon.technology/introducing-polygon-id-zero-knowledge-own-your-identity-for-web3/)                  |
 |<img src="./images/livepeer.png" width="200" height="100">   | [Livepeer](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md)                  |
-|<img src="./images/truebit.png" width="200" height="100">   | [Truebit](https://medium.com/gasworks-crypto/truebit-the-biggest-crypto-project-youve-never-heard-of-512717e5e061)                  |
+|<img src="./images/truebit.png" width="200" height="100">   | [Truebit](https://truebit.io/#applications)                  |
