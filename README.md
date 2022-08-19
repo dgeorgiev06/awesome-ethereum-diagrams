@@ -135,3 +135,4 @@
 |<img src="./images/Uploaded_from_Sign_in_with_Ethereum.png" width="200" height="100">   | [Spruce/Sign-in with Ethereum](https://auth0.com/blog/sign-in-with-ethereum-siwe-now-available-on-auth0/)                  |
 |<img src="./images/polygon_id.jpeg" width="200" height="100">   | [Polygon ID](https://blog.polygon.technology/introducing-polygon-id-zero-knowledge-own-your-identity-for-web3/)                  |
 |<img src="./images/livepeer.png" width="200" height="100">   | [Livepeer](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md)                  |
+|<img src="./images/truebit.png" width="200" height="100">   | [Truebit](https://medium.com/gasworks-crypto/truebit-the-biggest-crypto-project-youve-never-heard-of-512717e5e061)                  |
