@@ -138,4 +138,4 @@
 |<img src="./images/polygon_id.jpeg" width="200" height="100">   | [Polygon ID](https://blog.polygon.technology/introducing-polygon-id-zero-knowledge-own-your-identity-for-web3/)                  |
 |<img src="./images/livepeer.png" width="200" height="100">   | [Livepeer](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md) |
 |<img src="./images/livepeerstream.png" width="200" height="100">   | [Livepeer Live Streaming](https://docs.livepeer.studio/core-concepts/architecture)                  |
-|<img src="./images/truebit.png" width="200" height="100">   | [Truebit](https://truebit.io/#applications)                  |
+|<img src="./images/truebit.png" width="200" height="100">   | [Truebit-offchain scaling and verification](https://truebit.io/#applications)                  |
