@@ -112,7 +112,8 @@
 |<img src="./images/voltz_architecture.png" width="200" height="100">   | [Voltz IRS](https://docs.voltz.xyz/getting-started/protocol-overview)  |
 |<img src="./images/starknet_dai_bridge.png" width="200" height="100">   | [StarkNet Dai Bridge](https://morioh.com/p/be6c9cb57011)  |
 |<img src="./images/batch_auctions.png" width="200" height="100">   | [COW Protocol / Batch Auctions](https://docs.cow.fi/overview/batch-auctions)  |
-|<img src="./images/truebitTok.png" width="200" height="100">   | [Truebit Tokenomics](https://truebit.io/#applications)
+|<img src="./images/truebitTok.png" width="200" height="100">   | [Truebit Tokenomics](https://truebit.io/#applications)      |
+|<img src="./images/GEB_overview.svg" width="200" height="100">   | [GEB framework for stable coins](https://docs.reflexer.finance/)      |
 
 # Governance
 
