@@ -53,6 +53,7 @@
 | <img src="./images/chain-and-state-diagram-full.jpeg" width="200" height="100">        | [Ethereum scaling solutions](https://samlaf.github.io/blockchain/graphical-depiction-of-ethereum-scaling-solutions.html) |
 | <img src="./images/zkEvm.png" width="200" height="100">        | [Polygon zkEvm](https://blog.polygon.technology/the-future-is-now-for-ethereum-scaling-introducing-polygon-zkevm/) |
 | <img src="./images/arbnitro.png" width="200" height="100">        | [Arbitrum Nitro](https://github.com/OffchainLabs/nitro/blob/master/docs/Nitro-whitepaper.pdf) |
+| <img src="./images/arbnitroarchitecture.png" width="200" height="100">        | [Arbitrum Nitro Code Design](https://github.com/OffchainLabs/nitro/blob/master/docs/Nitro-whitepaper.pdf) |
 
 
 ## Oracles
