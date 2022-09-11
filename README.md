@@ -52,6 +52,7 @@
 | <img src="./images/polygon-edge.png" width="200" height="100">        | [Polygon edge](https://blog.polygon.technology/how-to-bootstrap-a-blockchain-with-polygon-edge/?utm_source=Twitter-Main&utm_medium=Tweet&utm_campaign=Tier-1-Announcement)                               |
 | <img src="./images/chain-and-state-diagram-full.jpeg" width="200" height="100">        | [Ethereum scaling solutions](https://samlaf.github.io/blockchain/graphical-depiction-of-ethereum-scaling-solutions.html) |
 | <img src="./images/zkEvm.png" width="200" height="100">        | [Polygon zkEvm](https://blog.polygon.technology/the-future-is-now-for-ethereum-scaling-introducing-polygon-zkevm/) |
+| <img src="./images/arbnitro.png" width="200" height="100">        | [Arbitrum Nitro](https://github.com/OffchainLabs/nitro/blob/master/docs/Nitro-whitepaper.pdf) |
 
 
 ## Oracles
