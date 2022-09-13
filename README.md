@@ -116,6 +116,7 @@
 |<img src="./images/batch_auctions.png" width="200" height="100">   | [COW Protocol / Batch Auctions](https://docs.cow.fi/overview/batch-auctions)  |
 |<img src="./images/truebitTok.png" width="200" height="100">   | [Truebit Tokenomics](https://truebit.io/#applications)      |
 |<img src="./images/GEB_overview.svg" width="200" height="100">   | [GEB framework for stable coins](https://docs.reflexer.finance/)      |
+|<img src="./images/barnbridgev2.png" width="200" height="100">   | [BarnBridge v2 fixed yield](https://medium.com/barnbridge/announcing-barnbridge-v2-sustainable-fixed-interest-in-defi-made-easy-fa5983cdcf99)      |
 
 # Governance
 
