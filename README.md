@@ -130,6 +130,12 @@
 | -------                                                | ------                                                   | 
 |<img src="./images/spore-overview.png" width="200" height="100">   | [Spore Ecosystem](https://www.spores.vision/learn/)                  |
 
+# Social networking
+
+| Diagram                                                | Source                                                   |       
+| -------                                                | ------                                                   | 
+|<img src="./images/collectives.jpeg" width="200" height="100">   | [Collectives by Syndicate](https://syndicate.mirror.xyz/fvglvFTah69Kmks_TbXL8X5dWnUY3vTdGYVQKW3kU0k)                  |
+
 # Other blockchain technologies
 
 | Diagram                                                | Source                                                   |       
