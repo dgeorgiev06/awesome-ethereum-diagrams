@@ -10,6 +10,7 @@
 - [DeFi and DAO tekenomics](#defi-and-dao-tokenomics)
 - [Governance](#governance)
 - [NFT platforms](#nft-platforms)
+- [Decentralized Identity](#decentralized-identity)
 - [Social Networking](#social-networking)
 - [Other blockchain technologies](#other-blockchain-technologies)
 
