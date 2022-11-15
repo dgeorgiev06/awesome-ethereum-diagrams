@@ -132,6 +132,13 @@
 | -------                                                | ------                                                   | 
 |<img src="./images/spore-overview.png" width="200" height="100">   | [Spore Ecosystem](https://www.spores.vision/learn/)                  |
 
+# Decentralized identity
+
+| Diagram                                                | Source                                                   |       
+| -------                                                | ------                                                   | 
+|<img src="./images/ens_registry.png" width="200" height="100">   | [ENS Registry](https://docs.ens.domains/)                  |
+|<img src="./images/ens_flow.png" width="200" height="100">   | [ENS resolution flow](https://docs.ens.domains/)                  |
+
 # Social networking
 
 | Diagram                                                | Source                                                   |       
