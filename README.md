@@ -20,7 +20,7 @@
 | -------                                                | ------        | 
 | <img src="./images/block.jpeg" width="200" height="100">        | [Merkle Patricia Trie in Ethereum](https://kbaiiitmk.medium.com/merkle-patricia-trie-in-ethereum-a-silhouette-c8d04155b490) - every block header stores roots of three trie structures: stateRoot, transactionRoot, receiptsRoot | 
 | <img src="./images/trilemma.png" width="200" height="100">        | [The Scalability Trilemma](https://vitalik.ca/general/2021/04/07/sharding.html) |
-| <img src="./images/roadmap.jpeg" width="200" height="100">        | [Ethereum roadmap: merge, surge, verge, purge, splurge](https://twitter.com/VitalikButerin/status/1466411377107558402?s=20&t=IkX3s2xEMU0K9EVJVZLotg) |
+| <img src="./images/eth_roadmap.jpeg" width="200" height="100">        | [Ethereum roadmap: merge, surge, srourge, verge, purge, splurge](https://twitter.com/VitalikButerin/status/1588669785218650112) |
 | <img src="./images/eth_proof_of_work_chain.png" width="200" height="100">        | [Ethereum proof of work chain](https://notes.ethereum.org/@vbuterin/SkeyEI3xv) |
 | <img src="./images/sharding.png" width="200" height="100">        | [Ethereum sharding](https://notes.ethereum.org/@vbuterin/SkeyEI3xv) |
 | <img src="./images/casper.jpeg" width="200" height="100">        | [Casper FFG in Ethereum 2.0](https://link.medium.com/gbH9gatWvnb) |
